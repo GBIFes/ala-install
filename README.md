@@ -1,4 +1,4 @@
-# ALA Installation Scripts
+# ALA Installation Scripts (old deprected fork)
 This project contains [Ansible](http://www.ansible.com/) playbooks for setting up ALA components on Ubuntu 14 machines.
 This project includes a playbook for setting up the [ALA demo ](http://ala-demo.gbif.org).
 
